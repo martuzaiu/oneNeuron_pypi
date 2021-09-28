@@ -5,11 +5,11 @@ oneNeuron_pypi
 
 
 ## Make directory
-'''bash
+```bash
 mkdir -p src/oneNeuron
-'''
+```
 
 ## Git add commit and push
-'''bash
+```bash
 git add . && git commit -m "Command added" && git push origin main
-'''
+```
